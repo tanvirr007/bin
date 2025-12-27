@@ -1,0 +1,170 @@
+- [Abhijeet Bhale](https://abhijeetbhale.github.io/Portfolio) [Software Engineer]
+- [Adityakumar Sinha](https://aditya113141.github.io)
+- [Akhshy Ganesh](https://akhshyganesh.github.io) [Full-Stack Developer | Solution Architect]
+- [Amirali Rashidi](https://amiralirashidi.github.io) [Front-End Developer]
+- [Anzhelika Kostyuk](https://a-coderr.github.io/portfolio-website) [Software Developer]
+- [Aradhya Puneeth](https://aradhyapuneeth.github.io/) DevOps Engineer
+- [Arctan2](https://arctan2.github.io) [Full Stack | Frontend Heavy | Software Generalist]
+- [Arslan Sarfraz](https://arslansarfraz.github.io/portfolio)
+- [Ateeb Shahid](https://teebs339.github.io/portfolio) [Rpa Developer | Ai Automation]
+---------------------------------------------
+- [Bandi Revanth](https://bandirevanth.github.io) [Ai/Ml Systems Architect & Full-Stack Engineer]
+- [Bhushan Borole](https://bhushan-borole.github.io)
+---------------------------------------------
+- [Chetanya Kandhari](https://availchet.github.io)
+---------------------------------------------
+- [Diego López Reduello](https://deinigu.github.io/portfolio) [Data Scientist]
+- [Dina Taklit](https://dinataklit.github.io/DinaTaklitPortfolio)
+---------------------------------------------
+- [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
+---------------------------------------------
+- [Fayaz Bin Salam](https://p32929.github.io)
+- [Franklin Huichi Contreras](https://franh20.github.io)
+- [Furkan Kapukaya](https://furkankapukayaa.github.io)
+---------------------------------------------
+- [Gabriel Machado](https://machado001.github.io)
+- ([@Machado001](https://github.com/machado001))
+- [Gabriele Corti](https://borntofrappe.github.io)
+- [Ghom Krosmonaute](https://ghomkrosmonaute.github.io/?game) ([@Ghomkrosmonaute](https://github.com/GhomKrosmonaute))
+- [Goh Jun Xiang](https://gohjunx.github.io/GohJunXiang.github.io)
+- [Goh You Sheng](https://shenggg2000.github.io/portfolio)
+- [Gokul Raja](https://gokul-raja84.github.io)
+- [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
+- [Herve Mbilo](https://diliwo.github.io) [Cloud-Native Software Engineer]
+- [Jai Li](https://lijw07.github.io/portfolio) [Software Engineer]
+- [Jatin Jha](https://jatin0jha.github.io)
+- [Jaya Vignesh](https://i-viki.github.io) [Backend Developer]
+- [Jayant Goel](http://jayantgoel001.github.io)
+- [Jayant Parashar](https://jparasha.github.io)
+- [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
+- [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
+- [Joshua Chinwendu](http://joshualine.github.io)
+- [Kavin](https://devekavin.github.io/Portfolio) [Web Developer]
+- [Keith Lau](https://keithlau2015.github.io/portfolio)
+- [Kiran Kumar](https://ikiran-dev.github.io)
+- [Kiran Naragund](https://kiran1689.github.io)
+- [Konan Serge](https://serge07cloud.github.io/portfolio/) [Web Developer | Pern]
+- [Krishna Sathyamurthy - Pokédex Portfolio](https://krshsl.github.io)
+- [Kushan Devarajegowda (Software Developer | Software Engineer | Sde | Swe)](https://ikushdev.github.io)
+- [Techfolios](https://techfolios.github.io)
+- [Lakshan Rukantha](https://lakshanrukantha.github.io)
+- [Lisa Blunt](https://lisablunt.github.io)
+- [Liz Lam](https://lizlam.github.io)
+- [Long Do](https://longpdo.github.io)
+- [Loránd Kiss](https://lorandkissdev.github.io/github-portfolio)
+- [Madhan K](https://madhank93.github.io)
+- [Madhurima Rawat](https://madhurimarawat.github.io/Portfolio-Website) [Data Scientist & Frontend Developer]
+- [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website)
+- [Maphangwa Tshifhiwa](https://tmaphangwa.github.io/Profile)
+- [Marcos Moura](https://marcos-moura97.github.io)
+- [Mayank Aggarwal](https://mayank0255.github.io)
+- [Maytiya Monburinon](https://gigigimay.github.io)
+- [Md Muhaiminul Islam Shihab](https://muhaiminShihab.github.io) [Software Developer | Php, Laravel, Next.Js, Mysql.]
+- [Mehdi Ali](https://exoo25.github.io)
+- [Melvin Jones Repol](https://mrepol742.github.io)
+- [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
+- [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio) [Mobile Developer]
+- [Mouad Ziani](https://mouadziani.github.io)
+- [Muhammad Naeem Tahir](https://muhammadnaeemtahir.github.io)
+- [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
+- [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
+- [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
+- [Nipun Jain](https://lucifernipun22.github.io)
+- [Noel Young](https://noeljyoung.github.io/portfolio/) [Senior Software Engineer | Laravel Developer | Go Enthusiast]
+- [Om](https://omchaudhari1107.github.io)
+- [Oussama Bonnor](https://oussamabonnor1.github.io/portfolio)
+- [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
+- [Pan Wei Lian](https://williamson922.github.io)
+- [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
+- [Pankaj Kumar](https://pankaj-kumar-techie.github.io) [Software Engineer]
+- [Parth Kaul](https://parthkaul-bit.github.io/portfolio)
+- [Patrick Chiu](https://patrick-kw-chiu.github.io)
+- [Pazindu Shane](https://pazindushane.github.io)
+- [Poonam Chauhan](https://poo17nam.github.io/profile)
+- [Pritam Debnath](https://pridebnath.github.io/portfolio-v2) [Frontend Developer]
+- [Pritu Yadav](https://prituyadav.github.io)
+- [Priya Nayak](https://priya180975.github.io/portfolio)
+- [Pruthviraj Mundargi](https://pruthviraj-guddu.github.io)
+- [Puja Sridhar](https://pujasridhar.github.io/) [Interactive Rag-Powered Terminal And Gui Portfolio.]
+- [Pushpak Chhajed](https://pushpak1300.github.io)
+- [Rabeeh](https://sayyedrabeeh.github.io/personal)
+- [Rafael Salazar](https://rafalazar.github.io)
+- [Rahul Gulabaji](https://rahulgulabaji.github.io) [Software Engineer]
+- [Rasyid Nuruddin](https://thesimpanze.github.io/Portofolio-Rasyid) [Front-End Developer]
+- [Ratnesh Patil](https://ratanesh-patil.github.io/portfolioratnesh)
+- [Raymond Valencia](https://paolo1231.github.io)
+- [Rensith Udara](https://rensithudara.github.io/portfolio)
+- [Rick Hanlon](https://rickhanlonii.github.io)
+- [Rizwan Shah](https://rizwanshah9792.github.io/Portfolio)
+- [Rohit Soni](https://rohitsoni007.github.io/portfolio) [Full Stack, Mern, Reactnative]
+- [Roman Smunyov](https://romanisthere.github.io)
+- [Roshan Kr Soni](https://roshankrsoni.github.io)
+- [Ryan Chen](https://ryanyychen.github.io/portfolio) [Student]
+- [Sachin Srinivasan](https://s8sachin.github.io)
+- [Sagar Chopda](https://sagarchopda757.github.io/developer-portfolio) [Software Engineer - Mern,Genai]
+- [Sagar Giri](https://girisagar46.github.io)
+- [Sai Teja](https://saiteja13427.github.io)
+- [Saibramha Narsingoju](https://saibramhanarsingoju.github.io) [Software Engineer]
+- [Saitheja Komalla](https://saitheja20.github.io/Portfolio)
+- [Saksham Agarwal](https://skshamagarwal.github.io)
+- [Samrat Mitra](https://lionelsamrat10.github.io)
+- [Sanajit Jana](https://sanajitjana.github.io)
+- [Sandeep Mallick](https://sandeepmallick.github.io/sandeepportfolio/)
+- [Sandeep Panigrahi](https://sandeepdot1.github.io)
+- [Sartaj Alam](https://sak03.github.io/sartaj.dev)
+- [Satish Jhanwer](https://satishjhanwer.github.io)
+- [Satyam Gupta](https://imlolman.github.io) ([@Imlolman](https://github.com/imlolman))
+- [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
+- [Sayyed](https://sayyedrabeeh.github.io/portfoliyo/) [Full-Stack Developer]
+- [Sebastian Cherny](https://sebascherny.github.io)
+- [Sergio Sanchez](https://sdsanchezm.github.io) [.Net And Java Dev]
+- [Seyoon Puvi](https://seyoonpuvi.github.io/personal-portfolio)
+- [Sharif](https://developersharif.github.io/me/) [Fullstack Engineer]
+- [Shikhar Gupta](https://shikhar97.github.io)
+- [Shivam Garg](https://shivamgarg82.github.io/Portfolio)
+- [Shivesh Chaturvedi](https://shivesh1606.github.io/portfolio)
+- [Shomi Khan](https://shomi-khan.github.io)
+- [Shubham Gaur](https://shubhamessier.github.io/portfolio)
+- [Shubham Tarade](https://coder-shanks.github.io)
+- [Slimaeus](https://slimaeus.github.io) [.Net Developer]
+- [Sohanuzzaman Soad](https://ssoad.github.io) [Software Engineer | Mobile App Developer | Ai Engineer]
+- [Sree Godavarthi](http://sreegodavarthi.github.io)
+- [Stephanie Lin](https://lin-stephanie.github.io)
+- [Sumonta Saha Mridul](https://sumonta056.github.io)
+- [Supratik Bhowal](https://supratikb23.github.io/) [Ai/Ml Student | Junior Researcher]
+- [Suraj Yadav](https://suraj-yadav0.github.io/terminal-portfolio/) [Software Engineer | Ubuntu Touch Developer]
+- [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
+- [Tejas Jadhav](https://teeejaey.github.io)
+- [Thea Mushambadze](https://highflyer910.github.io)
+- [Thekaushikgoswami](https://thekaushikgoswami.github.io)
+- [Tj Klint](https://tjklint.github.io)
+- [Tushar Singh Bisht](https://tusharsinghbisht.github.io)
+- [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
+- [Uday Lunawat](https://udaylunawat.github.io)
+- [Vaibhav Padmani](https://vi0650.github.io)
+- [Varinder Singh](https://varinder148.github.io/portfolio)
+- [Vauth](https://vauth.github.io/hueco)
+- [Vertanzil](https://vertanzil.github.io)
+- [Vikas Ukani](https://vikas-ukani.github.io)
+- [Vinay Somawat](https://vinaysomawat.github.io)
+- [Vishnu Sharma](https://vs-code-cloud.github.io/)
+- [Vitor Forbrig](https://forbrig.github.io)
+- [Vivek Chudasama](https://vivekchudasama-2004.github.io/portfolio)
+- [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
+- [Vyom Dubey](https://vmoyd.github.io/portfolio-app) [Vmoy]
+- [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
+- [Willian De Almeida Lemos](https://rarewolf626.github.io)
+- [Wilson Tu](https://dumbyoodoodo.github.io/wilsonportfolio.github.io/)
+- [Yadunand Kamath](https://yadunand-kamath.github.io/portfolio) [C++ Developer]
+- [Yash Datir](https://yashdatir.github.io/profile-os)
+- [Yash Johri](https://yash1200.github.io)
+- [Yashita Namdeo](https://yashitanamdeo.github.io)
+- [Yassine Oularbi](https://yassineoularbi.github.io)
+- [Yeshwanth Krishna](https://yeshwanth-kr.github.io) [Full Stack Dev]
+- [Yogesh Saini](https://saini-yogesh.github.io/Portfolio)
+- [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template)
+- [Yuri Faria](https://windows87.github.io)
+- [Ziyad](https://ziyadsk.github.io/portfolio-V2)
+- [Zobaidul Kazi](https://zobkazi.github.io)
+- [Zulfiqar Alam](https://zulfiqaralam18.github.io)
+- [Zzlly Potie](http://valentinpotie.github.io/portfolio)
