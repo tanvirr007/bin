@@ -31,15 +31,10 @@
 ---------------------------------------------
 - [Krishna Sathyamurthy - Pokédex Portfolio](https://krshsl.github.io)
 ---------------------------------------------
-
-
-
-- [Techfolios](https://techfolios.github.io)
-- [Lakshan Rukantha](https://lakshanrukantha.github.io)
-- [Lisa Blunt](https://lisablunt.github.io)
 - [Liz Lam](https://lizlam.github.io)
-- [Long Do](https://longpdo.github.io)
-- [Loránd Kiss](https://lorandkissdev.github.io/github-portfolio)
+- ------------------------------------------
+
+
 - [Madhan K](https://madhank93.github.io)
 - [Madhurima Rawat](https://madhurimarawat.github.io/Portfolio-Website) [Data Scientist & Frontend Developer]
 - [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website)
@@ -54,6 +49,8 @@
 - [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio) [Mobile Developer]
 - [Mouad Ziani](https://mouadziani.github.io)
 - [Muhammad Naeem Tahir](https://muhammadnaeemtahir.github.io)
+
+- 
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
 - [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
