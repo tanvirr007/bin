@@ -29,12 +29,11 @@
 ---------------------------------------------
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
 ---------------------------------------------
-
-- [Kiran Kumar](https://ikiran-dev.github.io)
-- [Kiran Naragund](https://kiran1689.github.io)
-- [Konan Serge](https://serge07cloud.github.io/portfolio/) [Web Developer | Pern]
 - [Krishna Sathyamurthy - Pokédex Portfolio](https://krshsl.github.io)
-- [Kushan Devarajegowda (Software Developer | Software Engineer | Sde | Swe)](https://ikushdev.github.io)
+---------------------------------------------
+
+
+
 - [Techfolios](https://techfolios.github.io)
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
 - [Lisa Blunt](https://lisablunt.github.io)
