@@ -43,24 +43,9 @@
 - [Saksham Agarwal](https://skshamagarwal.github.io)
 - [Suraj Yadav](https://suraj-yadav0.github.io/terminal-portfolio/) [Software Engineer | Ubuntu Touch Developer]
 --------------------------------------------
-
-
-
-
-
-
-- [Uday Lunawat](https://udaylunawat.github.io)
-- [Vaibhav Padmani](https://vi0650.github.io)
-- [Varinder Singh](https://varinder148.github.io/portfolio)
-- [Vauth](https://vauth.github.io/hueco)
-- [Vertanzil](https://vertanzil.github.io)
-- [Vikas Ukani](https://vikas-ukani.github.io)
-- [Vinay Somawat](https://vinaysomawat.github.io)
-- [Vishnu Sharma](https://vs-code-cloud.github.io/)
-- [Vitor Forbrig](https://forbrig.github.io)
-- [Vivek Chudasama](https://vivekchudasama-2004.github.io/portfolio)
 - [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
-- [Vyom Dubey](https://vmoyd.github.io/portfolio-app) [Vmoy]
+--------------------------------------------
+- 
 - [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
 - [Willian De Almeida Lemos](https://rarewolf626.github.io)
 - [Wilson Tu](https://dumbyoodoodo.github.io/wilsonportfolio.github.io/)
