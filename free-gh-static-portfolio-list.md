@@ -47,17 +47,5 @@
 --------------------------------------------
 - [Willian De Almeida Lemos](https://rarewolf626.github.io)
 --------------------------------------------
-- 
-- [Yadunand Kamath](https://yadunand-kamath.github.io/portfolio) [C++ Developer]
-- [Yash Datir](https://yashdatir.github.io/profile-os)
-- [Yash Johri](https://yash1200.github.io)
 - [Yashita Namdeo](https://yashitanamdeo.github.io)
-- [Yassine Oularbi](https://yassineoularbi.github.io)
-- [Yeshwanth Krishna](https://yeshwanth-kr.github.io) [Full Stack Dev]
-- [Yogesh Saini](https://saini-yogesh.github.io/Portfolio)
-- [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template)
-- [Yuri Faria](https://windows87.github.io)
-- [Ziyad](https://ziyadsk.github.io/portfolio-V2)
-- [Zobaidul Kazi](https://zobkazi.github.io)
-- [Zulfiqar Alam](https://zulfiqaralam18.github.io)
-- [Zzlly Potie](http://valentinpotie.github.io/portfolio)
+--------------------------------------------
