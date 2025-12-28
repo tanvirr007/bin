@@ -33,12 +33,9 @@
 ---------------------------------------------
 - [Liz Lam](https://lizlam.github.io)
 - ------------------------------------------
- 
-- [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
-- [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
-- [Nipun Jain](https://lucifernipun22.github.io)
-- [Noel Young](https://noeljyoung.github.io/portfolio/) [Senior Software Engineer | Laravel Developer | Go Enthusiast]
+--------------------------------------------
+
 - [Om](https://omchaudhari1107.github.io)
 - [Oussama Bonnor](https://oussamabonnor1.github.io/portfolio)
 - [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
