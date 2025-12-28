@@ -38,20 +38,13 @@
 - [Parth Kaul](https://parthkaul-bit.github.io/portfolio)
 - [Puja Sridhar](https://pujasridhar.github.io/) [Interactive Rag-Powered Terminal And Gui Portfolio.]
 --------------------------------------------
-
-- [Rabeeh](https://sayyedrabeeh.github.io/personal)
-- [Rafael Salazar](https://rafalazar.github.io)
 - [Rahul Gulabaji](https://rahulgulabaji.github.io) [Software Engineer]
-- [Rasyid Nuruddin](https://thesimpanze.github.io/Portofolio-Rasyid) [Front-End Developer]
-- [Ratnesh Patil](https://ratanesh-patil.github.io/portfolioratnesh)
-- [Raymond Valencia](https://paolo1231.github.io)
-- [Rensith Udara](https://rensithudara.github.io/portfolio)
-- [Rick Hanlon](https://rickhanlonii.github.io)
-- [Rizwan Shah](https://rizwanshah9792.github.io/Portfolio)
-- [Rohit Soni](https://rohitsoni007.github.io/portfolio) [Full Stack, Mern, Reactnative]
-- [Roman Smunyov](https://romanisthere.github.io)
-- [Roshan Kr Soni](https://roshankrsoni.github.io)
-- [Ryan Chen](https://ryanyychen.github.io/portfolio) [Student]
+--------------------------------------------
+
+
+
+
+
 - [Sachin Srinivasan](https://s8sachin.github.io)
 - [Sagar Chopda](https://sagarchopda757.github.io/developer-portfolio) [Software Engineer - Mern,Genai]
 - [Sagar Giri](https://girisagar46.github.io)
