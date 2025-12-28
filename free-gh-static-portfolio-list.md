@@ -35,27 +35,10 @@
 - ------------------------------------------
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
 --------------------------------------------
-
-
-
-
-
-
-
-
-- [Pan Wei Lian](https://williamson922.github.io)
-- [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
-- [Pankaj Kumar](https://pankaj-kumar-techie.github.io) [Software Engineer]
 - [Parth Kaul](https://parthkaul-bit.github.io/portfolio)
-- [Patrick Chiu](https://patrick-kw-chiu.github.io)
-- [Pazindu Shane](https://pazindushane.github.io)
-- [Poonam Chauhan](https://poo17nam.github.io/profile)
-- [Pritam Debnath](https://pridebnath.github.io/portfolio-v2) [Frontend Developer]
-- [Pritu Yadav](https://prituyadav.github.io)
-- [Priya Nayak](https://priya180975.github.io/portfolio)
-- [Pruthviraj Mundargi](https://pruthviraj-guddu.github.io)
 - [Puja Sridhar](https://pujasridhar.github.io/) [Interactive Rag-Powered Terminal And Gui Portfolio.]
-- [Pushpak Chhajed](https://pushpak1300.github.io)
+--------------------------------------------
+
 - [Rabeeh](https://sayyedrabeeh.github.io/personal)
 - [Rafael Salazar](https://rafalazar.github.io)
 - [Rahul Gulabaji](https://rahulgulabaji.github.io) [Software Engineer]
