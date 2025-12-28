@@ -23,14 +23,13 @@
 - [Furkan Kapukaya](https://furkankapukayaa.github.io)
 ---------------------------------------------
 - [Gabriel Machado](https://machado001.github.io)
-- ([@Machado001](https://github.com/machado001))
-- [Gabriele Corti](https://borntofrappe.github.io)
-- [Ghom Krosmonaute](https://ghomkrosmonaute.github.io/?game) ([@Ghomkrosmonaute](https://github.com/GhomKrosmonaute))
-- [Goh Jun Xiang](https://gohjunx.github.io/GohJunXiang.github.io)
-- [Goh You Sheng](https://shenggg2000.github.io/portfolio)
 - [Gokul Raja](https://gokul-raja84.github.io)
+- -------------------------------------------
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
-- [Herve Mbilo](https://diliwo.github.io) [Cloud-Native Software Engineer]
+---------------------------------------------
+
+
+
 - [Jai Li](https://lijw07.github.io/portfolio) [Software Engineer]
 - [Jatin Jha](https://jatin0jha.github.io)
 - [Jaya Vignesh](https://i-viki.github.io) [Backend Developer]
