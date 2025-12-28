@@ -1,8 +1,6 @@
 - [Adityakumar Sinha](https://aditya113141.github.io)
 - [Arctan2](https://arctan2.github.io) [Full Stack | Frontend Heavy | Software Generalist]
 ---------------------------------------------
-- [Chetanya Kandhari](https://availchet.github.io)
----------------------------------------------
 - [Fayaz Bin Salam](https://p32929.github.io)
 ---------------------------------------------
 - [Gabriel Machado](https://machado001.github.io)
