@@ -45,13 +45,10 @@
 --------------------------------------------
 
 
-- [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
-- [Tejas Jadhav](https://teeejaey.github.io)
-- [Thea Mushambadze](https://highflyer910.github.io)
-- [Thekaushikgoswami](https://thekaushikgoswami.github.io)
-- [Tj Klint](https://tjklint.github.io)
-- [Tushar Singh Bisht](https://tusharsinghbisht.github.io)
-- [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
+
+
+
+
 - [Uday Lunawat](https://udaylunawat.github.io)
 - [Vaibhav Padmani](https://vi0650.github.io)
 - [Varinder Singh](https://varinder148.github.io/portfolio)
