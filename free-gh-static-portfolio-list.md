@@ -45,10 +45,9 @@
 --------------------------------------------
 - [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
 --------------------------------------------
-- 
-- [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
 - [Willian De Almeida Lemos](https://rarewolf626.github.io)
-- [Wilson Tu](https://dumbyoodoodo.github.io/wilsonportfolio.github.io/)
+--------------------------------------------
+- 
 - [Yadunand Kamath](https://yadunand-kamath.github.io/portfolio) [C++ Developer]
 - [Yash Datir](https://yashdatir.github.io/profile-os)
 - [Yash Johri](https://yash1200.github.io)
