@@ -36,9 +36,13 @@
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
 --------------------------------------------
 
-- [Om](https://omchaudhari1107.github.io)
-- [Oussama Bonnor](https://oussamabonnor1.github.io/portfolio)
-- [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
+
+
+
+
+
+
+
 - [Pan Wei Lian](https://williamson922.github.io)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
 - [Pankaj Kumar](https://pankaj-kumar-techie.github.io) [Software Engineer]
