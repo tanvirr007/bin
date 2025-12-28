@@ -27,19 +27,9 @@
 - -------------------------------------------
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
 ---------------------------------------------
-
-
-
-- [Jai Li](https://lijw07.github.io/portfolio) [Software Engineer]
-- [Jatin Jha](https://jatin0jha.github.io)
-- [Jaya Vignesh](https://i-viki.github.io) [Backend Developer]
-- [Jayant Goel](http://jayantgoel001.github.io)
-- [Jayant Parashar](https://jparasha.github.io)
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
-- [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
-- [Joshua Chinwendu](http://joshualine.github.io)
-- [Kavin](https://devekavin.github.io/Portfolio) [Web Developer]
-- [Keith Lau](https://keithlau2015.github.io/portfolio)
+---------------------------------------------
+
 - [Kiran Kumar](https://ikiran-dev.github.io)
 - [Kiran Naragund](https://kiran1689.github.io)
 - [Konan Serge](https://serge07cloud.github.io/portfolio/) [Web Developer | Pern]
