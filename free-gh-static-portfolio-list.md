@@ -4,10 +4,7 @@
 - [Fayaz Bin Salam](https://p32929.github.io)
 ---------------------------------------------
 - [Gabriel Machado](https://machado001.github.io)
-- [Gokul Raja](https://gokul-raja84.github.io)
 - -------------------------------------------
-- [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
----------------------------------------------
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
 ---------------------------------------------
 - [Krishna Sathyamurthy - Pokédex Portfolio](https://krshsl.github.io)
@@ -18,8 +15,6 @@
 --------------------------------------------
 - [Parth Kaul](https://parthkaul-bit.github.io/portfolio)
 - [Puja Sridhar](https://pujasridhar.github.io/) [Interactive Rag-Powered Terminal And Gui Portfolio.]
---------------------------------------------
-- [Rahul Gulabaji](https://rahulgulabaji.github.io) [Software Engineer]
 --------------------------------------------
 - [Saksham Agarwal](https://skshamagarwal.github.io)
 - [Suraj Yadav](https://suraj-yadav0.github.io/terminal-portfolio/) [Software Engineer | Ubuntu Touch Developer]
