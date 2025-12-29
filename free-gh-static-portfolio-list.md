@@ -10,9 +10,6 @@
 --------------------------------------------
 - [Puja Sridhar](https://pujasridhar.github.io/) [Interactive Rag-Powered Terminal And Gui Portfolio.]
 --------------------------------------------
-- [Saksham Agarwal](https://skshamagarwal.github.io)
-- [Suraj Yadav](https://suraj-yadav0.github.io/terminal-portfolio/) [Software Engineer | Ubuntu Touch Developer]
---------------------------------------------
 - [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
 --------------------------------------------
 - [Willian De Almeida Lemos](https://rarewolf626.github.io)
